@@ -1,0 +1,19 @@
+C:\Users\DAM2.LENOVO10\Documents\M17 - Programació de videojocs 2D i 3D\Snake\Snake\Snake\bin\Debug\Snake.exe.config
+C:\Users\DAM2.LENOVO10\Documents\M17 - Programació de videojocs 2D i 3D\Snake\Snake\Snake\bin\Debug\Snake.exe
+C:\Users\DAM2.LENOVO10\Documents\M17 - Programació de videojocs 2D i 3D\Snake\Snake\Snake\bin\Debug\Snake.pdb
+C:\Users\DAM2.LENOVO10\Documents\M17 - Programació de videojocs 2D i 3D\Snake\Snake\Snake\obj\Debug\Snake.csprojAssemblyReference.cache
+C:\Users\DAM2.LENOVO10\Documents\M17 - Programació de videojocs 2D i 3D\Snake\Snake\Snake\obj\Debug\Snake.form1.resources
+C:\Users\DAM2.LENOVO10\Documents\M17 - Programació de videojocs 2D i 3D\Snake\Snake\Snake\obj\Debug\Snake.Properties.Resources.resources
+C:\Users\DAM2.LENOVO10\Documents\M17 - Programació de videojocs 2D i 3D\Snake\Snake\Snake\obj\Debug\Snake.csproj.GenerateResource.cache
+C:\Users\DAM2.LENOVO10\Documents\M17 - Programació de videojocs 2D i 3D\Snake\Snake\Snake\obj\Debug\Snake.exe
+C:\Users\DAM2.LENOVO10\Documents\M17 - Programació de videojocs 2D i 3D\Snake\Snake\Snake\obj\Debug\Snake.pdb
+D:\Documentos\DAM 2019-2020\M17 - Programació de videojocs 2D i 3D\UF01\C#\Snake\Snake\bin\Debug\Snake.exe.config
+D:\Documentos\DAM 2019-2020\M17 - Programació de videojocs 2D i 3D\UF01\C#\Snake\Snake\bin\Debug\Snake.exe
+D:\Documentos\DAM 2019-2020\M17 - Programació de videojocs 2D i 3D\UF01\C#\Snake\Snake\bin\Debug\Snake.pdb
+D:\Documentos\DAM 2019-2020\M17 - Programació de videojocs 2D i 3D\UF01\C#\Snake\Snake\obj\Debug\Snake.csprojAssemblyReference.cache
+D:\Documentos\DAM 2019-2020\M17 - Programació de videojocs 2D i 3D\UF01\C#\Snake\Snake\obj\Debug\Snake.form1.resources
+D:\Documentos\DAM 2019-2020\M17 - Programació de videojocs 2D i 3D\UF01\C#\Snake\Snake\obj\Debug\Snake.Properties.Resources.resources
+D:\Documentos\DAM 2019-2020\M17 - Programació de videojocs 2D i 3D\UF01\C#\Snake\Snake\obj\Debug\Snake.csproj.GenerateResource.cache
+D:\Documentos\DAM 2019-2020\M17 - Programació de videojocs 2D i 3D\UF01\C#\Snake\Snake\obj\Debug\Snake.csproj.CoreCompileInputs.cache
+D:\Documentos\DAM 2019-2020\M17 - Programació de videojocs 2D i 3D\UF01\C#\Snake\Snake\obj\Debug\Snake.exe
+D:\Documentos\DAM 2019-2020\M17 - Programació de videojocs 2D i 3D\UF01\C#\Snake\Snake\obj\Debug\Snake.pdb
